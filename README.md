@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mya%20Thida%20Htut&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%2015%20Years%20Software%20Engineering&descAlignY=60&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mya%20Thida%20Htut&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel%20%26%20ML%20%7C%2015%20Years%20Systems&descAlignY=60&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AAB73&center=true&vCenter=true&width=700&lines=Turning+15+years+of+production+systems+into+data%3B;DistilBERT+63%25+vs+TF-IDF+55%25+on+review+sentiment;Neural+recommenders+%7C+Retail+EDA+%7C+Churn+analytics;MSc+Data+Science%2C+AI+%26+Digital+Business+%E2%80%94+GISMA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AAB73&center=true&vCenter=true&width=760&lines=Data+Analyst+%26+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%26+ML;15+Years+Java%2FPHP%2FMySQL+Systems+Experience;MSc+Data+Science" alt="Typing SVG" />
 
 <br/>
 
@@ -17,16 +17,18 @@
 
 ## 🧠 About Me
 
+**Data Analyst & Data Scientist | Python, SQL, Power BI, Excel & ML | 15 Years Java/PHP/MySQL Systems Experience | MSc Data Science**
+
 I'm a **Data Analyst & Data Scientist** who spent 15 years building the production systems most analysts only ever see as tables: core banking, point of sale, inventory, payroll, real estate, and ecommerce. I also built SQL based dashboards and operational reports with Power BI, Excel, and Jasper Report, giving stakeholders cleaner visibility into delivery, defects, transactions, and resource allocation. Now, with an MSc in Data Science, AI & Digital Business, I work the other side of those systems: turning their data into measured, defensible answers.
 
 ```python
 mya = {
-    "focus":       "Data Analysis, ML & NLP — grounded in 15 yrs of production engineering",
+    "focus":       "Python, SQL, Power BI, Excel & ML for data analysis and data science",
     "stack":       ["Python", "pandas", "scikit-learn", "TensorFlow", "PyTorch", "Hugging Face", "SQL", "Power BI", "Excel", "Jasper Report"],
     "interests":   ["NLP/Transformers", "Recommender Systems", "BI dashboards", "Time-series forecasting"],
     "education":   "MSc Data Science, AI & Digital Business — GISMA University of Applied Sciences (2024-2025)",
     "thesis":      "Disease Outbreak Prediction: Decision Trees vs Neural Nets vs ARIMA vs LSTM (published, DOI)",
-    "prior_career": "15 yrs Java/PHP engineering: core banking, POS/inventory, payroll, real estate, UNDP ecommerce",
+    "prior_career": "15 Years Java/PHP/MySQL systems experience: core banking, POS/inventory, payroll, real estate, UNDP ecommerce",
     "based_in":    "Berlin, Germany",
 }
 ```
