@@ -17,16 +17,16 @@
 
 ## 🧠 About Me
 
-I'm a **Data Analyst & Data Scientist** who spent 15 years building the production systems most analysts only ever see as tables — core banking, point-of-sale, inventory, payroll — as a senior developer and team lead in Yangon. Now, with an MSc in Data Science, AI & Digital Business, I work the other side of those systems: turning their data into measured, defensible answers.
+I'm a **Data Analyst & Data Scientist** who spent 15 years building the production systems most analysts only ever see as tables: core banking, point of sale, inventory, payroll, real estate, and ecommerce. I also built SQL based dashboards and operational reports with Power BI, Excel, and Jasper Report, giving stakeholders cleaner visibility into delivery, defects, transactions, and resource allocation. Now, with an MSc in Data Science, AI & Digital Business, I work the other side of those systems: turning their data into measured, defensible answers.
 
 ```python
 mya = {
     "focus":       "Data Analysis, ML & NLP — grounded in 15 yrs of production engineering",
-    "stack":       ["Python", "pandas", "scikit-learn", "TensorFlow", "PyTorch", "Hugging Face", "SQL", "Power BI"],
+    "stack":       ["Python", "pandas", "scikit-learn", "TensorFlow", "PyTorch", "Hugging Face", "SQL", "Power BI", "Excel", "Jasper Report"],
     "interests":   ["NLP/Transformers", "Recommender Systems", "BI dashboards", "Time-series forecasting"],
     "education":   "MSc Data Science, AI & Digital Business — GISMA University of Applied Sciences (2024-2025)",
     "thesis":      "Disease Outbreak Prediction: Decision Trees vs Neural Nets vs ARIMA vs LSTM (published, DOI)",
-    "prior_career": "15 yrs Java/PHP engineering — core banking, POS/inventory, HR/payroll, real estate, UNDP e-commerce",
+    "prior_career": "15 yrs Java/PHP engineering: core banking, POS/inventory, payroll, real estate, UNDP ecommerce",
     "based_in":    "Berlin, Germany",
 }
 ```
@@ -74,6 +74,7 @@ mya = {
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jasper Report](https://img.shields.io/badge/Jasper%20Report-8B7355?style=for-the-badge)
 
 **Engineering foundation (15 yrs)**
 
@@ -131,9 +132,14 @@ Compared Decision Trees, Neural Networks, ARIMA & LSTM for outbreak prediction u
 - **MBA** — University of Economics, Yangon (2014–2016)
 - **BSc Computer Technology** — University of Computer Studies, Yangon (2001–2004)
 
+## 🌐 Languages
+
+- **English** — Native/Bilingual Proficiency
+- **German** — A2 Level
+
 ## 💼 Where the domain knowledge comes from
 
-Fifteen years (2004–2023) building and leading development on the systems most analysts only ever see as tables: **core banking** (accounts, loans, deposits, remittances, bill payments) · **POS & inventory** (FIFO/LIFO/average-cost valuation) · **HR & payroll · hospitality platforms** · a **real-estate sales & rental portal** for one of Myanmar's largest developers · a **UNDP-funded SME e-commerce marketplace**. Along the way: SQL-driven dashboards that cut manual reporting effort by 40%.
+Fifteen years (2004–2023) building and leading development on the systems most analysts only ever see as tables: **core banking** (accounts, loans, deposits, remittances, bill payments) · **POS & inventory** (FIFO/LIFO/average-cost valuation) · **payroll operations** · a **real estate sales and rental portal** for one of Myanmar's largest developers · a **UNDP funded SME ecommerce marketplace** for Kachin State. Along the way: MySQL data modeling, Power BI and Excel dashboards, Jasper reports, structured test planning, system flow design, requirements gathering, documentation, and knowledge transfer.
 
 ---
 
