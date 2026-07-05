@@ -1,6 +1,6 @@
 # Mya Thida Htut
 
-Software Engineer with 15+ years building production systems (Java, PHP, MySQL), now moving into Data Science & AI — pursuing a Master's in Data Science, AI, and Digital Business in Berlin. Open to **Developer**, **Data Analyst**, and **Data Scientist** roles.
+Software Engineer with 15+ years building production systems (Java, PHP, MySQL), now moving into Data Science & AI — MSc in Data Science, AI and Digital Business (GISMA University of Applied Sciences, 2024–2025). Based in Berlin, open to **Developer**, **Data Analyst**, and **Data Scientist** roles.
 
 **[Full portfolio →](https://myathidahtut.github.io/portfolio/)**
 
