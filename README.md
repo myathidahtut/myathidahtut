@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mya%20Thida%20Htut&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel%20%26%20ML%20%7C%2015%20Years%20Systems&descAlignY=60&descAlign=50" />
+<img width="100%" src="assets/github-profile-banner.svg" alt="Mya Thida Htut - Data Analyst and Data Scientist" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AAB73&center=true&vCenter=true&width=760&lines=Data+Analyst+%26+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%26+ML;15+Years+Java%2FPHP%2FMySQL+Systems+Experience;MSc+Data+Science" alt="Typing SVG" />
 
