@@ -1,152 +1,147 @@
 <div align="center">
 
-<img width="100%" src="assets/github-profile-banner.svg" alt="Mya Thida Htut - Data Analyst and Data Scientist" />
+# Mya Thida Htut
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AAB73&center=true&vCenter=true&width=760&lines=Data+Analyst+%26+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%26+ML;15+Years+Java%2FPHP%2FMySQL+Systems+Experience;MSc+Data+Science" alt="Typing SVG" />
+### Data Analyst & Data Scientist | Python, SQL, Power BI, Excel & ML | 15 Years Java/PHP/MySQL Systems Experience | MSc Data Science
 
-<br/>
+[![Profile views](https://komarev.com/ghpvc/?username=myathidahtut&color=6aab73&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/myathidahtut)
+[![Followers](https://img.shields.io/github/followers/myathidahtut?color=c9a24c&style=for-the-badge&logo=github)](https://github.com/myathidahtut?tab=followers)
+[![Focus](https://img.shields.io/badge/Focus-Data%20Analysis%20%26%20ML-6aab73?style=for-the-badge)](https://github.com/myathidahtut)
+[![Based in](https://img.shields.io/badge/Based%20in-Berlin%2C%20Germany-2563eb?style=for-the-badge)](https://myathidahtut.github.io/portfolio/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=myathidahtut&color=6aab73&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/myathidahtut?color=c9a24c&style=for-the-badge&logo=github)
-![Focus](https://img.shields.io/badge/Focus-Data%20Analysis%20%26%20ML-6aab73?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based%20In-Berlin%20%F0%9F%87%A9%F0%9F%87%AA-blue?style=for-the-badge)
+[Portfolio](https://myathidahtut.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/myathidahtut/) | [ResearchGate Thesis](https://www.researchgate.net/publication/400596744_Predicting_Disease_Outbreaks_Using_Machine_Learning_and_Public_Health_Data)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 **Data Analyst & Data Scientist | Python, SQL, Power BI, Excel & ML | 15 Years Java/PHP/MySQL Systems Experience | MSc Data Science**
 
-I'm a **Data Analyst & Data Scientist** who spent 15 years building the production systems most analysts only ever see as tables: core banking, point of sale, inventory, payroll, real estate, and ecommerce. I also built SQL based dashboards and operational reports with Power BI, Excel, and Jasper Report, giving stakeholders cleaner visibility into delivery, defects, transactions, and resource allocation. Now, with an MSc in Data Science, AI & Digital Business, I work the other side of those systems: turning their data into measured, defensible answers.
+I'm a **Data Analyst & Data Scientist** in Berlin with 15 years of Java, PHP, and MySQL software engineering experience across core banking, point of sale, inventory, payroll, real estate, ecommerce, dashboards, and operational reporting.
+
+That systems background is now backed by an MSc in Data Science, AI and Digital Business from GISMA University of Applied Sciences. I work across the analytics stack: from SQL, Python, and BI dashboards to machine learning models that turn raw operational data into defensible decisions.
 
 ```python
 mya = {
-    "focus":       "Python, SQL, Power BI, Excel & ML for data analysis and data science",
-    "stack":       ["Python", "pandas", "scikit-learn", "TensorFlow", "PyTorch", "Hugging Face", "SQL", "Power BI", "Excel", "Jasper Report"],
-    "interests":   ["NLP/Transformers", "Recommender Systems", "BI dashboards", "Time-series forecasting"],
-    "education":   "MSc Data Science, AI & Digital Business — GISMA University of Applied Sciences (2024-2025)",
-    "thesis":      "Disease Outbreak Prediction: Decision Trees vs Neural Nets vs ARIMA vs LSTM (published, DOI)",
-    "prior_career": "15 Years Java/PHP/MySQL systems experience: core banking, POS/inventory, payroll, real estate, UNDP ecommerce",
-    "based_in":    "Berlin, Germany",
+    "focus": "Python, SQL, Power BI, Excel, and ML for data analysis and data science",
+    "stack": ["Python", "pandas", "NumPy", "scikit-learn", "TensorFlow", "PyTorch", "Hugging Face", "SQL", "Power BI", "Excel"],
+    "interests": ["BI dashboards", "NLP", "recommender systems", "time-series forecasting", "public health analytics"],
+    "education": "MSc Data Science, AI and Digital Business - GISMA University of Applied Sciences",
+    "thesis": "Disease Outbreak Prediction: Decision Trees vs Neural Nets vs ARIMA vs LSTM",
+    "prior_career": "Java/PHP/MySQL systems for banking, POS/inventory, payroll, real estate, and ecommerce",
+    "based_in": "Berlin, Germany",
 }
 ```
 
 ---
 
-## 📊 GitHub Stats
+## Core Skills
 
-<div align="center">
-<img src="https://gpsc-deploy.vercel.app/api/cards/profile-details?username=myathidahtut&theme=tokyonight" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://gpsc-deploy.vercel.app/api/cards/repos-per-language?username=myathidahtut&theme=tokyonight" width="49%" />
-<img src="https://gpsc-deploy.vercel.app/api/cards/most-commit-language?username=myathidahtut&theme=tokyonight" width="49%" />
-</div>
-
----
-
-## 🎯 Skills at a Glance
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,huggingface,mysql,git,github&perline=8" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,linux,vscode,powerbi&perline=8" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-**Data & ML**
+**Data, BI and ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6AAB73?style=for-the-badge)
+
+**Python analytics stack**
+
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge)
 
-**Visualization & BI**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jasper Report](https://img.shields.io/badge/Jasper%20Report-8B7355?style=for-the-badge)
-
-**Engineering foundation (15 yrs)**
+**Engineering foundation**
 
 ![Java](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jasper Report](https://img.shields.io/badge/Jasper%20Report-8B7355?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [📊 E-Commerce Review Sentiment (NLP)](https://github.com/myathidahtut/ecommerce-review-sentiment-nlp)
+### [Aura Intelligence Suite](https://github.com/myathidahtut/AuraIntelligenceSuite) | [Live demo](https://myathidahtut.github.io/AuraIntelligenceSuite/)
 
-Fine-tuned DistilBERT vs. TF-IDF + Logistic Regression for Amazon review sentiment classification.
+Client-side BI dashboard for multi-file CSV ingestion, adaptive schema mapping, revenue analysis, customer/category charts, and browser-only exploration.
 
-![Accuracy](https://img.shields.io/badge/Transformer-63%25%20accuracy-6aab73?style=flat-square)
-![Baseline](https://img.shields.io/badge/TF--IDF%20%2B%20LogReg-55%25%20accuracy-8B7355?style=flat-square)
+- Stack: JavaScript, PapaParse, Chart.js, HTML/CSS
+- Proof: live demo and GitHub source
 
-- Balanced sampling across 1–5 star classes, spaCy preprocessing for the classical path
-- Hugging Face `transformers` / `datasets` / `evaluate` for the fine-tuned path
+### [Predictive Analytics Dashboard](https://github.com/myathidahtut/PredictiveAnalyticsDashboard) | [Live demo](https://myathidahtut.github.io/PredictiveAnalyticsDashboard/)
 
-### [🎬 Movie Rating Prediction (Neural Collaborative Filtering)](https://github.com/myathidahtut/movie-rating-prediction-nn)
+Telecom churn analytics dashboard with model comparison views and a live customer-risk simulator.
 
-![MAE](https://img.shields.io/badge/Best%20model-MAE%20≈%200.198-6aab73?style=flat-square)
+- Stack: HTML, Tailwind CSS, Chart.js
+- Proof: live dashboard and GitHub source
 
-Embedding-based neural recommender (user + movie embeddings, no content features). Seven-experiment ablation isolating exactly which architecture choices mattered — batch norm and depth helped, an extra layer hurt.
-
-### [🛒 Retail Sales Analytics](https://github.com/myathidahtut/retail-sales-analytics)
-
-Five business questions answered from raw transaction data — peak hours, best-selling categories, top spenders, payment methods, seasonality.
-
-![Result](https://img.shields.io/badge/95.3%25-cash--on--delivery-6aab73?style=flat-square)
-![Result](https://img.shields.io/badge/October-≈2×%20seasonal%20spike-c9a24c?style=flat-square)
-
-### [📈 Aura Intelligence Suite](https://github.com/myathidahtut/AuraIntelligenceSuite) · [Live demo](https://myathidahtut.github.io/AuraIntelligenceSuite/)
-
-Client-side BI dashboard built on the retail analytics above: multi-file CSV ingestion, adaptive schema mapping, interactive revenue/category/customer charts — no backend, no data leaves the browser.
-
-### [📉 Predictive Analytics Dashboard](https://github.com/myathidahtut/PredictiveAnalyticsDashboard) · [Live demo](https://myathidahtut.github.io/PredictiveAnalyticsDashboard/)
-
-Telecom churn dashboard: model comparison view + live risk simulator, built on the Maven Analytics Telecom Churn dataset.
-
-### [🦠 Disease Outbreak Prediction (MSc Thesis, joint work)](https://github.com/masood-ahmed-k/disease-outbreak-prediction)
+### [Disease Outbreak Prediction - MSc Thesis](https://github.com/masood-ahmed-k/disease-outbreak-prediction)
 
 [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.35607.23208-blue?style=flat-square)](https://doi.org/10.13140/RG.2.2.35607.23208)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Thesis%20page-00CCBB?style=flat-square)](https://www.researchgate.net/publication/400596744_Predicting_Disease_Outbreaks_Using_Machine_Learning_and_Public_Health_Data)
 
-Compared Decision Trees, Neural Networks, ARIMA & LSTM for outbreak prediction using epidemiological, climate, mobility, and healthcare data. Neural Network beat baseline by **27% on RMSE**. Published.
+Compared Decision Trees, Neural Networks, ARIMA, and LSTM for outbreak prediction using epidemiological, climate, mobility, and healthcare indicators.
+
+- Result: Neural Network model beat baseline by 27% RMSE
+- Proof: ResearchGate publication page, DOI, and source code
+
+### [E-Commerce Review Sentiment NLP](https://github.com/myathidahtut/ecommerce-review-sentiment-nlp)
+
+Fine-tuned DistilBERT for Amazon review sentiment classification and compared it against a TF-IDF plus Logistic Regression baseline.
+
+- Result: 63% accuracy vs 55% baseline
+- Stack: Python, PyTorch, Hugging Face, spaCy, scikit-learn
+
+### [Movie Rating Prediction Neural Network](https://github.com/myathidahtut/movie-rating-prediction-nn)
+
+Embedding-based neural collaborative filtering recommender with a seven-experiment architecture ablation study.
+
+- Result: test MAE about 0.198 and MSE about 0.056 on normalized ratings
+- Stack: TensorFlow/Keras, pandas, scikit-learn
+
+### [Retail Sales Analytics](https://github.com/myathidahtut/retail-sales-analytics)
+
+Retail transaction EDA answering business questions about payment behavior, peak hours, category demand, customers, and seasonality.
+
+- Result: identified 95.3% cash-on-delivery share and about 2x October sales spike
+- Stack: Python, pandas, Plotly, Seaborn
 
 ---
 
-## 🎓 Education
+## Education
 
-- **MSc Data Science, AI and Digital Business** — GISMA University of Applied Sciences, Potsdam (2024–2025)
-- **MBA** — University of Economics, Yangon (2014–2016)
-- **BSc Computer Technology** — University of Computer Studies, Yangon (2001–2004)
-
-## 🌐 Languages
-
-- **English** — Native/Bilingual Proficiency
-- **German** — A2 Level
-
-## 💼 Where the domain knowledge comes from
-
-Fifteen years (2004–2023) building and leading development on the systems most analysts only ever see as tables: **core banking** (accounts, loans, deposits, remittances, bill payments) · **POS & inventory** (FIFO/LIFO/average-cost valuation) · **payroll operations** · a **real estate sales and rental portal** for one of Myanmar's largest developers · a **UNDP funded SME ecommerce marketplace** for Kachin State. Along the way: MySQL data modeling, Power BI and Excel dashboards, Jasper reports, structured test planning, system flow design, requirements gathering, documentation, and knowledge transfer.
+- **MSc Data Science, AI and Digital Business** - GISMA University of Applied Sciences, Potsdam (2024-2025)
+- **MBA** - University of Economics, Yangon (2014-2016)
+- **BSc Computer Technology** - University of Computer Studies, Yangon (2001-2004)
 
 ---
 
-## 🤝 Connect
+## Experience Foundation
+
+Fifteen years building and leading production systems before moving deeper into analytics and data science:
+
+- Core banking systems covering accounts, loans, deposits, remittances, and bill payments
+- POS and inventory workflows including FIFO, LIFO, and average-cost valuation
+- Payroll, reporting, documentation, testing, deployment, and user training
+- Real estate sales/rental portal and SME ecommerce marketplace work
+- MySQL data modeling, SQL validation, Power BI, Excel, and Jasper Report outputs
+
+---
+
+## Languages
+
+- **English** - Native or bilingual proficiency
+- **German** - A2 elementary proficiency
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -154,12 +149,6 @@ Fifteen years (2004–2023) building and leading development on the systems most
 [![Portfolio](https://img.shields.io/badge/Portfolio-6aab73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myathidahtut.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myathidahtut)
 
-</div>
-
-<div align="center">
-
-*Open to Data Analyst and Data Scientist roles in Berlin — developer roles welcome too.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+**Open to Data Analyst and Data Scientist roles in Berlin.**
 
 </div>
