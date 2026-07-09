@@ -141,6 +141,19 @@ Fifteen years building and leading production systems before moving deeper into 
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=myathidahtut&show_icons=true&theme=tokyonight&hide_border=true" alt="Mya's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myathidahtut&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=myathidahtut&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+---
+
 ## Connect
 
 <div align="center">
