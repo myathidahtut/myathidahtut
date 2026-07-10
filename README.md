@@ -81,7 +81,7 @@ Telecom churn dashboard-design exercise with model-comparison views and a live c
 - Stack: HTML, Tailwind CSS, Chart.js
 - Proof: live dashboard and GitHub source
 
-### [Disease Outbreak Prediction - MSc Thesis](https://github.com/masood-ahmed-k/disease-outbreak-prediction)
+### [Disease Outbreak Prediction - MSc Thesis](https://github.com/myathidahtut/disease-outbreak-prediction)
 
 [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.35607.23208-blue?style=flat-square)](https://doi.org/10.13140/RG.2.2.35607.23208)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Thesis%20page-00CCBB?style=flat-square)](https://www.researchgate.net/publication/400596744_Predicting_Disease_Outbreaks_Using_Machine_Learning_and_Public_Health_Data)
