@@ -76,7 +76,7 @@ Client-side BI dashboard for multi-file CSV ingestion, adaptive schema mapping, 
 
 ### [Predictive Analytics Dashboard](https://github.com/myathidahtut/PredictiveAnalyticsDashboard) | [Live demo](https://myathidahtut.github.io/PredictiveAnalyticsDashboard/)
 
-Telecom churn analytics dashboard with model comparison views and a live customer-risk simulator.
+Telecom churn dashboard-design exercise with model-comparison views and a live customer-risk simulator. Displayed figures are illustrative, not from a trained model.
 
 - Stack: HTML, Tailwind CSS, Chart.js
 - Proof: live dashboard and GitHub source
