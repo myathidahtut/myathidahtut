@@ -112,6 +112,13 @@ Retail transaction EDA answering business questions about payment behavior, peak
 - Result: identified 95.3% cash-on-delivery share and about 2x October sales spike
 - Stack: Python, pandas, Plotly, Seaborn
 
+### [Cohort & Retention Analysis](https://github.com/myathidahtut/cohort-retention-analysis)
+
+Customer cohort and retention analysis on the UCI Online Retail II dataset: monthly acquisition cohorts, retention matrix, retention heatmap, cohort sizes, and revenue retention across 779K cleaned transactions from 5,878 customers.
+
+- Result: 21.2% average month-1 retention; stabilizes near 16.6% (months 6-12)
+- Stack: Python, pandas, Matplotlib, Seaborn
+
 ---
 
 ## Education
