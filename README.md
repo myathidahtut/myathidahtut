@@ -73,7 +73,7 @@ mya = {
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=myathidahtut&theme=tokyonight&hide_border=true" alt="Mya Thida Htut's GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=myathidahtut&theme=tokyonight&hide_border=true&disable_animations=true" alt="Mya Thida Htut's GitHub streak" />
 </p>
 
 ---
