@@ -68,15 +68,9 @@ mya = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=myathidahtut&theme=tokyonight&hide_border=true&disable_animations=true" alt="Mya Thida Htut's GitHub streak" />
-</p>
 
 ---
+
 
 ## Featured Projects
 
